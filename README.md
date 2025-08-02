@@ -1,8 +1,8 @@
-# 🛍️ Customer Segmentation using RFM and Clustering
+#  Customer Segmentation using RFM and Clustering
 
 This project performs **customer segmentation** using RFM (Recency, Frequency, Monetary) analysis and **KMeans clustering**, with an interactive dashboard built using **Plotly Dash**.
 
-## 📊 Objective
+##  Objective
 
 To identify distinct groups of customers based on purchasing behavior, enabling businesses to:
 
@@ -12,7 +12,7 @@ To identify distinct groups of customers based on purchasing behavior, enabling 
 
 ---
 
-## 📂 Dataset
+##  Dataset
 
 - Dataset: [Online Retail Dataset](https://archive.ics.uci.edu/ml/datasets/online+retail)
 - Source: UCI Machine Learning Repository
@@ -21,7 +21,7 @@ To identify distinct groups of customers based on purchasing behavior, enabling 
 
 ---
 
-## ⚙️ Features Used — RFM Analysis
+##  Features Used — RFM Analysis
 
 | Feature   | Meaning                                  |
 |-----------|------------------------------------------|
@@ -31,7 +31,7 @@ To identify distinct groups of customers based on purchasing behavior, enabling 
 
 ---
 
-## 🧠 Machine Learning Approach
+##  Machine Learning Approach
 
 - **Scaling**: StandardScaler
 - **Clustering**: KMeans (4 clusters)
@@ -40,7 +40,7 @@ To identify distinct groups of customers based on purchasing behavior, enabling 
 
 ---
 
-## 💻 Tech Stack
+##  Tech Stack
 
 - Python
 - pandas, NumPy
@@ -50,7 +50,7 @@ To identify distinct groups of customers based on purchasing behavior, enabling 
 
 ---
 
-## 📈 Dashboard Preview
+##  Dashboard Preview
 
 The dashboard allows:
 - Interactive visualization of clusters using PCA
